@@ -50,7 +50,7 @@ A comprehensive testing suite is located in the `sql/99_testing/manual_tests.sql
 ## 7. Project Screenshots
 
 **Airflow Dynamic DAG Execution:**
-![Airflow DAG](images/airflow_success.png)
+![Airflow DAG](images/airflow_dynamic.png)
 
 **Snowflake Audit Log:**
-![Snowflake Audit](images/snowflake_audit.png)
+![Snowflake Audit](images/snowflake_audit_new.png)
